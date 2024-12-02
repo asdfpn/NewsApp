@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 11696,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Adrienne So",
+            "title": "Lego and Formula 1 Roll Out Full Sets of Teams and Drivers",
+            "description": "In 2025, you will be able to recreate full Formula 1 Grands Prix in your living room, complete with Lego cars, drivers, and garages.",
+            "url": "https://www.wired.com/story/lego-and-formula-1-sets/",
+            "urlToImage": "https://media.wired.com/photos/673f67eb4c158487100880f9/191:100/w_1280,c_limit/Lego-Formula-1-Set-Lifestyle_2-SOURCE-Lego.jpg",
+            "publishedAt": "2024-11-21T21:30:00Z",
+            "content": "If theres one thing Lego is known forbesides the legendary clutch power of its immortal plastic bricksits the companys uncanny ability to pinpoint the Next Big Thing and immediately sign a licensing … [+1261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Family blame parked cars for delayed ambulance",
+            "description": "A car had to be moved before an ambulance could get down the street to a woman in cardiac arrest.",
+            "url": "https://www.bbc.com/news/articles/cj6k7n734jgo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b79b/live/80f4b830-9872-11ef-9a64-e3368355d750.jpg",
+            "publishedAt": "2024-11-05T06:16:01Z",
+            "content": "Philomena Donnelly suffered a cardiac arrest at home in west Belfast in August\r\nThe family of a woman who died after suffering a cardiac arrest say their neighbours had to move a parked car to allow … [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "The Verge Staff",
+            "title": "The Verge’s guide to the 2024 presidential election",
+            "description": "Vice President Kamala Harris is taking on former President Donald Trump. The election will determine the future of everything from electric cars to the entire legal system to to our democracy itself.",
+            "url": "https://www.theverge.com/24279527/2024-presidential-election-guide-tech-policy",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/xG8M1zPOXmzE0IyEhJkVRhrpB_Y=/0x0:2040x1360/1200x628/filters:focal(1105x362:1106x363)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693279/247224_Election_Package__Mr.Nelson_design_HUB.jpg",
+            "publishedAt": "2024-10-29T13:43:57Z",
+            "content": "A presidential campaign is an expression of ideology, often vocalized as a number of promises. Sometimes, those promises are made even when theyre outside the scope of what a president can enact. Wit… [+1159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Moment vehicle explodes on quiet New York street",
+            "description": "The cause of the blast, which damaged homes and cars, is still under investigation.",
+            "url": "https://www.bbc.com/news/videos/c170n1qq02qo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d410/live/84d36e60-9e17-11ef-82c3-45a801b7330b.jpg",
+            "publishedAt": "2024-11-08T22:11:14Z",
+            "content": "Surveillance video shows the moment a car exploded on a quiet residential street in Queens, New York. The blast smashed windows of five homes and five cars but caused no injuries. \r\nDivision 13 New Y… [+245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Fresh Spain floods sweep away dozens of cars near Girona",
+            "description": "No casualties were reported in the latest round of flooding, after more than 200 people were killed last week.",
+            "url": "https://www.bbc.com/news/articles/crk4zlkdgk8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e391/live/d3436090-9dbe-11ef-935d-3107d1c873e8.jpg",
+            "publishedAt": "2024-11-08T11:08:40Z",
+            "content": "New floods have hit the region of Girona in north-eastern Spain, sweeping away around 30 cars in the town of Cadaqués, according to Spanish media reports.\r\nVideos posted by a local journalist showed … [+1352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Valencia floods aftermath 'like a disaster movie'",
+            "description": "The BBC's Nicky Schiller reports from the scene of Spanish flooding where cars are piled up.",
+            "url": "https://www.bbc.com/news/videos/c80l54vd7ezo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a411/live/d6e98350-976a-11ef-9260-19e6a950e830.jpg",
+            "publishedAt": "2024-10-31T09:33:57Z",
+            "content": "Rescue efforts are continuing as Spain endures its worst flooding disaster in decades, with at least 95 people confirmed dead and dozens more missing after huge rains swept the eastern province of Va… [+204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Aston Martin looks to raise cash as China sales slow",
+            "description": "Iconic firm blames \"minor delay\" in deliveries of its ultra-exclusive Valiant cars for the shortfall.",
+            "url": "https://www.bbc.com/news/articles/c98dze04eyyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6324/live/f42ad5d0-ac6f-11ef-810c-759dc8d4fdc4.jpg",
+            "publishedAt": "2024-11-27T04:58:18Z",
+            "content": "Aston Martin has announced it is looking to raise cash after it lowered its profit forecast for the second time in two months.\r\nThe UK luxury carmaker is now expecting to turn a profit of up to £280m… [+1692 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-06T14:00:54Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-08T16:55:41Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "One dead and six taken to hospital after car crash",
+            "description": "A 19-year-old man, who was a front seat passenger in one of the cars, was pronounced dead at the scene.",
+            "url": "https://www.bbc.com/news/articles/clyj12nznkzo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7ab7/live/02506910-99d6-11ef-8168-1fe01a698c94.png",
+            "publishedAt": "2024-11-03T11:38:45Z",
+            "content": "A man has died and six people have been injured after a late night car crash.\r\nEmergency services were called to reports of a collision involving two black Seat Ibizas at a set of crossroads between … [+687 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Automatic Braking Systems Save Lives. Now They'll Need to Work at 62 MPH",
+            "description": "A new report from AAA says newer systems prevent twice the number of collisions—and save lives. Regulators have ordered an expansion of the tech, but the auto industry says the upgrade won’t be easy.",
+            "url": "https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/",
+            "urlToImage": "https://media.wired.com/photos/6736505affa63aec3ac6bc5d/191:100/w_1280,c_limit/auto-brakes-gear-1383034992.jpg",
+            "publishedAt": "2024-11-18T12:30:00Z",
+            "content": "But no story can be all good news. Auto industry officials argue that meeting that 2029 target will be really very hard. Thats practically impossible with available technology, John Bozzella, the pre… [+3284 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "FCC passes auto safety spectrum rules",
+            "description": "FCC has finalized Cellular Vehicle-to-Everying (C-V2X) technology spectrum rules by evolving the 5.9GHz band for Intelligent Transportation Systems (ITS).",
+            "url": "https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/LkXbMw6BwFq1t-UwdzV1c5-RJBQ=/0x0:682x366/1200x628/filters:focal(341x183:342x184)/cdn.vox-cdn.com/uploads/chorus_asset/file/24035514/Fcyv3EnWQAEQFMm.png",
+            "publishedAt": "2024-11-21T23:19:00Z",
+            "content": "FCC passes auto safety spectrum rules\r\nFCC passes auto safety spectrum rules\r\n / Cellular Vehicle-to-Everying technology will operate in the 5.9 GHz band.\r\nByUmar Shakir, a news writer fond of the el… [+1712 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Trump Won. What Will Happen to Electric Vehicles?",
+            "description": "Thanks to Elon Musk's influence, the president-elect has waffled on the future of America's electric transition.",
+            "url": "https://www.wired.com/story/trump-won-what-happens-to-electric-vehicles-now/",
+            "urlToImage": "https://media.wired.com/photos/672bbc1ddb8d7c705ec6a2f2/191:100/w_1280,c_limit/Gear_Trump_Tesla_GettyImages-2182210030.jpg",
+            "publishedAt": "2024-11-06T22:19:49Z",
+            "content": "Donald Trump picked up 15 electoral votes when he won Michigan on Election Day, another big win that helped to hand the Republican candidate his second presidential term. Both he and the Democratic n… [+3407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-19T14:00:13Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "Tesla criticizes Biden's plan to ban Chinese tech in cars",
+            "description": "Tesla said the proposed ban on Chinese-developed software would create a \"massive and ultimately unnecessary regulatory reporting regime.\"",
+            "url": "https://www.businessinsider.com/tesla-criticizes-biden-plan-to-ban-chinese-tech-in-cars-2024-11",
+            "urlToImage": "https://i.insider.com/672a0171192f525898560ca0?width=1200&format=jpeg",
+            "publishedAt": "2024-11-05T12:35:01Z",
+            "content": "Elon Musk has criticized the Biden administration's tariffs on Chinese EV companies, despite previously warning they would \"demolish\" Western automakers without intervention.Slaven Vlasic/Getty Image… [+2252 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "This election will decide what kind of car you’ll buy",
+            "description": "Trump has promised to roll back Biden’s EV policies on “day one,” while Harris has avoided wading into the bizarre politicization of electric vehicles.",
+            "url": "https://www.theverge.com/24279434/presidential-election-trump-biden-harris-ev-2024-electric-vehicle-car",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5tWXMR03EV5rosVgDROFgGf6i2Q=/0x0:2040x1360/1200x628/filters:focal(1455x544:1456x545)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693277/247224_Election_Package__Mr.Nelson_design_EVs.jpg",
+            "publishedAt": "2024-10-29T13:30:00Z",
+            "content": "Trump has promised to roll back Bidens EV policies on day one.\r\nByAndrew J. Hawkins, transportation editor with 10+ years of experience who covers EVs, public transportation, and aviation. His work h… [+8754 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "The EV Buyers’ Guide to an Uncertain Future",
+            "description": "The Trump administration is likely to make big changes to US federal electric vehicle incentive programs. Buy or lease now, probably.",
+            "url": "https://www.wired.com/story/the-ev-buyers-guide-to-an-uncertain-future/",
+            "urlToImage": "https://media.wired.com/photos/673f9bbb5470f8321a36c16b/191:100/w_1280,c_limit/tesla-gear-2167205228.jpg",
+            "publishedAt": "2024-11-22T11:30:00Z",
+            "content": "Only certain vehicles qualify for the credit. To be eligible, they must cost less than $55,000 for cars and $80,000 for trucks and SUVs. They have to be assembled in North America. To get the full $7… [+2748 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tcarter@businessinsider.com (Tom Carter)",
+            "title": "Drivers are being 'ill-served by underwhelming EVs,' says boss of Tesla rival Lucid",
+            "description": "Lucid CEO Peter Rawlinson told the Cars and Culture podcast that the problem with EVs in the US was \"not perception, but reality.\"",
+            "url": "https://www.businessinsider.com/lucid-ceo-tesla-rival-on-american-evs-chinese-rivals-2024-11",
+            "urlToImage": "https://i.insider.com/6734950e5ec9bfa3d63dbd03?width=1200&format=jpeg",
+            "publishedAt": "2024-11-13T13:36:06Z",
+            "content": "The boss of one of Tesla's biggest rivals thinks he knows why the US public isn't being won over by EVs.\r\nPeter Rawlinson, the CEO of Lucid Motors and a former VP of engineering at Tesla, spoke on th… [+2688 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Joshua Nelken-Zitser,Jessica Orwig,Morgan McFall-Johnsen",
+            "title": "Shocking before and after photos show the devastation from flash floods in Spain",
+            "description": "Before-and-after photos show flooded streets, overturned cars, and more destruction as a result of torrential rains and flash floods in Spain.",
+            "url": "https://www.businessinsider.com/valencia-spain-before-after-photos-show-flash-flood-damage-2024-10",
+            "urlToImage": "https://i.insider.com/6723e268a0a0cc14f2255fda?width=1200&format=jpeg",
+            "publishedAt": "2024-10-31T22:06:31Z",
+            "content": "This before-and-after photo shows the area around a gas station in Picanya, near Valencia.Google Maps; JOSE JORDAN/AFP via Getty Images\r\n<ul><li>Torrential rains flooded ravines, inundated highways, … [+4739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Katie Collins",
+            "title": "Your Apps Are on Borrowed Time. AI Agents Are on the Way",
+            "description": "AI agents will be at center of our digital worlds, dancing across our devices from smart glasses to cars, providing a consistent experience and adapting the way technology interacts with us.",
+            "url": "https://www.cnet.com/tech/mobile/your-apps-are-on-borrowed-time-ai-agents-are-on-the-way/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/6e9233bfac4b422f7320c33a8895874e7bdcebb7/hub/2024/10/14/4da13dfb-7dc2-45e7-8452-2dc70571bcd1/5-apps-that-teach-you-as-you-go.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-30T12:00:00Z",
+            "content": "I first sensed it at Mobile World Congress in February. I saw a demo of phone software in which all apps were replaced by an AI interface. Then last week at Qualcomm's Snapdragon Summit, CEO Cristian… [+7002 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "LG Display’s stretchable screen is now even stretchier",
+            "description": "LG Display’s stretchable screen prototype can now expand from 12 to 18 inches and be repeatedly stretched over 10,000 times without damage.",
+            "url": "https://www.theverge.com/2024/11/12/24294480/lg-display-stretchable-screen-expands",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ofzeuMthAlTPz0cGYp9lZx7JOlA=/0x0:1784x1189/1200x628/filters:focal(892x595:893x596)/cdn.vox-cdn.com/uploads/chorus_asset/file/25728753/LG1.jpg",
+            "publishedAt": "2024-11-12T14:01:35Z",
+            "content": "LG Displays stretchable screen is now even stretchier\r\nLG Displays stretchable screen is now even stretchier\r\n / The latest prototype of the companys resilient screen can stretch from 12 to 18 inches… [+1738 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jaguarusa.com"
+            },
+            "author": null,
+            "title": "Jaguar Cars rebranding without any cars",
+            "description": "Challenging the ordinary and redefining expectations, Jaguar is inspiring a new generation. Explore the new era of Jaguar.",
+            "url": "https://www.jaguarusa.com/copy-nothing/index.html",
+            "urlToImage": "https://www.jaguarusa.com/content/dam/jdx/future-jaguar/international/JAG26GL_303104414_FUTURE-JAG_DM-2_HERO.jpg",
+            "publishedAt": "2024-11-20T05:28:40Z",
+            "content": "© 2024 Jaguar Land Rover North America, LLC\r\nImportant note on imagery &amp; specifications. The global shortages of semiconductors and other materials are currently affecting vehicle build specifica… [+1153 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Jaguar is now JaGUar",
+            "description": "Jaguar is rebranding for its electric future with a new logo and “copy nothing” tagline ahead of its first new model in 2026.",
+            "url": "https://www.theverge.com/2024/11/19/24300569/jaguar-rebrand-new-logo-ev",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ykIKmUQZlD0tWIxCMvvHQRPRhWE=/308x0:2208x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25742017/JAG26GL_303104414_FUTURE_JAG_FJ_DX_NAV.jpg",
+            "publishedAt": "2024-11-19T17:00:15Z",
+            "content": "Jaguar is now JaGUar\r\nJaguar is now JaGUar\r\n / Jaguars EV reset starts with a perplexing rebrand.\r\nByUmar Shakir, a news writer fond of the electric vehicle lifestyle and things that plug in via USB-… [+1440 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "Wayve's CEO talks teaching self-driving cars to handle US roads",
+            "description": "London-based Wayve has ambitious plans for global expansion after receiving backing from the likes of Microsoft, Nvidia and SoftBank.",
+            "url": "https://www.businessinsider.com/wayve-ceo-testing-driverless-cars-us-expansion-ai-robotics-2024-11",
+            "urlToImage": "https://i.insider.com/6728f5e45ec9bfa3d63b8b4b?width=1000&format=jpeg",
+            "publishedAt": "2024-11-10T09:51:02Z",
+            "content": "Wayve announced in October that it would begin testing its driver-assist technology in California.Wayve\r\n<ul><li>London-based Wayve is one of Europe's buzziest self-driving startups, attracting fundi… [+5880 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Benjamin Zhang",
+            "title": "The imported cars and SUVs most at risk of price hikes under Trump's tariff plan",
+            "description": "President-elect Trump announced on Monday plans to levy 25% tariffs on goods from Canada and Mexico.",
+            "url": "https://www.businessinsider.com/cars-made-in-mexico-canada-trump-tariff-price-hikes-2024-11",
+            "urlToImage": "https://i.insider.com/67464547ede4eeae3929d52a?width=1200&format=jpeg",
+            "publishedAt": "2024-11-26T22:31:32Z",
+            "content": "Cars made in Canada and Mexico.BMW, Volkswagen, Honda, Stellantis, Toyota, General Motors\r\n<ul><li>President-elect Trump plans to levy 25% tariffs on goods from Canada and Mexico, he said Monday.</li… [+4091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Florida HOA Hires Tow Truck To Take Cars From Driveways",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ee30f2f7-9603-43e2-b752-878cda8e51c8",
+            "urlToImage": null,
+            "publishedAt": "2024-11-25T13:00:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Emergency Vehicle Lights Can Screw Up a Car's Automated Driving System",
+            "description": "Newly published research finds that the flashing lights on police cruisers and ambulances can cause “digital epileptic seizures” in image-based automated driving systems, potentially risking wrecks.",
+            "url": "https://www.wired.com/story/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/",
+            "urlToImage": "https://media.wired.com/photos/67449520be432bc050c5bc0b/191:100/w_1280,c_limit/ambulance-lights-sci-1027494030.jpg",
+            "publishedAt": "2024-11-26T12:00:00Z",
+            "content": "Tesla, which disbanded its public relations team in 2021, did not respond to WIREDs request for comment. The camera systems the researchers used in their tests were manufactured by HP, Pelsee, Azdome… [+2715 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "The Ford Crown Victoria Beats Most Modern Police Cars",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f2f6df39-dcae-4493-be21-ed710a5ea4c0",
+            "urlToImage": null,
+            "publishedAt": "2024-11-17T17:30:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "LG’s New Stretchable Screen Can Morph like a Piece of Laffy Taffy",
+            "description": "The bendy screen expands from 12 to 18 inches and uses the same material found in contact lenses.",
+            "url": "https://gizmodo.com/lgs-new-stretchable-screen-can-morph-like-a-piece-of-laffy-taffy-2000523548",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Photo_2__LG_Display_Succeeds_in_Developing_World_s_First_Stretchable_Display_that_Expands_by_50_Perc.jpg",
+            "publishedAt": "2024-11-12T14:52:45Z",
+            "content": "Imagine a display as flexible as plastic wrapso malleable you could stretch it over your face in a futuristic impression of expert Saran-wrapping serial killer Dexter. LG is supposing the future will… [+3100 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Anna Lagos",
+            "title": "A Lost Mayan City Has Been Found With Laser Mapping",
+            "description": "Archaeologists have revealed an ancient lost Mayan city using advanced laser mapping technology, unearthing monumental structures such as pyramids and plazas. Named Valeriana, the city is believed to have been founded before 150 AD.",
+            "url": "https://www.wired.com/story/lost-mayan-city-valeriana-lidar-discovery/",
+            "urlToImage": "https://media.wired.com/photos/67215b972a973b088f9f8a84/191:100/w_1280,c_limit/Screenshot%202024-10-29%20at%2011.13.04.png",
+            "publishedAt": "2024-10-30T10:00:00Z",
+            "content": "A Mayan city lost in the dense jungle of southern Mexico has been revealed. The discovery occurred in the southeastern state of Campeche, and archaeologists have named it Valeriana, after a nearby fr… [+2630 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "Flirting With Kessler: why Space Debris Physics Make it Such an Orbital Pain",
+            "description": "Picture in your mind a big parking lot with 131 million cars on it. Now imagine that they are spread out over the entire Earth’s inhabited areas. Although still a large number, it is absolute…",
+            "url": "https://hackaday.com/2024/11/05/flirting-with-kessler-why-space-debris-physics-make-it-such-an-orbital-pain/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2018/04/debris1.jpg",
+            "publishedAt": "2024-11-05T15:00:38Z",
+            "content": "Picture in your mind a big parking lot with 131 million cars on it. Now imagine that they are spread out over the entire Earth’s inhabited areas. Although still a large number, it is absolutely dwarf… [+9278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Q13 News Seattle"
+            },
+            "author": "Ramsey Pfeffinger",
+            "title": "Multi-car crash causes 4-mile backup on I-5 South at I-405 Lynnwood, WA junction",
+            "description": "Multiple cars could be seen in a crash zone on I-5 South Saturday afternoon while rainy weather conditions complicated traffic patterns.",
+            "url": "https://www.q13fox.com/news/crash-traffic-i-5-south-lynnwood",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eACpH65FXES.3Q_F.XD9ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/kcpq_fox_local_articles_135/6b68c280fe620169f820fef540cc124d",
+            "publishedAt": "2024-11-17T00:02:35Z",
+            "content": "SEATTLE - Multiple cars could be seen in a crash zone on I-5 South Saturday afternoon while rainy weather conditions complicated traffic.\r\nTraffic backed up four miles north in the Lynnwood area foll… [+1101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "100,000 Times Cheaper Than A Real Bugatti, This LEGO Is 50% Off On Amazon",
+            "description": "This LEGO Bugatti is at 50% off for an early Black Friday deal.",
+            "url": "https://gizmodo.com/100000-times-cheaper-than-a-real-bugatti-this-lego-is-50-off-on-amazon-2000523573",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/lego-bugatti.jpg",
+            "publishedAt": "2024-11-12T14:58:12Z",
+            "content": "The LEGO Technic Bugatti Bolide is currently holding the title of the #1 best seller in the Toys &amp; Games category on Amazon. Priced at an incredible $24.99, this model represents a 50% discount f… [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "ASSOCIATED PRESS",
+            "title": "Severe Storms in Oklahoma Injure at Least 11 People and Leave Thousands Without Power",
+            "description": "Severe storms and tornadoes battered Oklahoma early Sunday, tossing cars and ripping roofs off buildings in the middle of the night.",
+            "url": "https://time.com/7171799/oklahoma-storms-injuries-thousands-without-power/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/11/AP24308658954270.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-11-03T19:18:18Z",
+            "content": "OKLAHOMA CITY Severe storms and tornadoes battered Oklahoma early Sunday, tossing cars and ripping roofs off buildings in the middle of the night and leaving tens of thousands of homes and businesses… [+3207 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "WATCH: Scammers in bear costumes attacked cars: Officials",
+            "description": "Four people have been arrested for alleged insurance fraud after they claimed a bear damaged their car — but it was really a person in a bear costume, according to officials in California.",
+            "url": "https://abcnews.go.com/US/video/scammers-bear-costumes-attacked-cars-officials-115845849",
+            "urlToImage": "https://i.abcnewsfe.com/a/714f0467-4f4b-49bb-ac86-03d62a7a629b/241113_abc_social_bear_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2024-11-14T02:52:27Z",
+            "content": "<ul><li>Next LA County district attorney wants to review Menendez brothers' case \r\n</li><li>NFL stars Patrick Mahomes' and Travis Kelce's homes burglarized \r\n</li><li>Biden to travel to Peru, Brazil … [+4403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Two detained after 12 shooting incidents of cars, homes on and around I-40 in Raleigh",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b312aeb-0ef0-4ba8-b654-60109b3bfb08",
+            "urlToImage": null,
+            "publishedAt": "2024-11-07T15:58:12Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Valencia floods: Spain clings to fragments of hope in time of disaster",
+            "description": "Floods and torrential rain have not gone away and residents hail stories of heroism as the clean-up continues.",
+            "url": "https://www.bbc.com/news/articles/c3vl11511gvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cfdf/live/4eca2f70-a263-11ef-8ab9-9192db313061.jpg",
+            "publishedAt": "2024-11-14T07:51:02Z",
+            "content": "Volunteers and emergency services are working to clean the streets, two weeks after Paiporta's deadly floods\r\nFloods and torrential rain returned to the Valencia region on Wednesday night, but this t… [+4159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Lamborghini Huracán And Nissan GT-Rs Among 30 Stolen Cars Worth $8 Million Recovered In Thailand",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8913fc50-0da6-4590-9761-9a1c43201d48",
+            "urlToImage": null,
+            "publishedAt": "2024-11-01T14:15:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raleigh News & Observer"
+            },
+            "author": "Lexi Solomon",
+            "title": "Raleigh police investigating after 6 rush-hour shootings into cars on Interstate 40",
+            "description": "Police are investigating in wake of rush hour shootings on Monday and Wednesday.",
+            "url": "https://www.newsobserver.com/news/local/crime/article295158999.html",
+            "urlToImage": "https://media.zenfs.com/en/raleigh_news_and_observer_mcclatchy_712/ac2ce0e690f2176dc43001608630fc3c",
+            "publishedAt": "2024-11-06T22:00:18Z",
+            "content": "Raleigh police are investigating after six separate shootings into cars during morning rush hour along Interstate 40.\r\nDeputy Chief Rico Boyce said the first incident was reported Monday near the Cha… [+1872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Bodies of two people found after house fire",
+            "description": "Crews managed to get inside the building after putting the fire out but found two bodies inside.",
+            "url": "https://www.bbc.com/news/articles/c2l97vzlwv8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3956/live/814732a0-9dd0-11ef-8f96-81e1fa9aa97d.jpg",
+            "publishedAt": "2024-11-08T13:00:03Z",
+            "content": "The blaze in a first-floor maisonette flat affected the entire property, the fire service said\r\nTwo people have been found dead following a house fire in Coventry.\r\nThe blaze in a first-floor maisone… [+1528 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Henri Robbins",
+            "title": "What Are Hall Effect Sensors and How Do They Work? (2024)",
+            "description": "More and more keyboards and video game controllers employ Hall effect sensors, but what exactly is this technology? We break it down.",
+            "url": "https://www.wired.com/story/what-is-hall-effect/",
+            "urlToImage": "https://media.wired.com/photos/6727e6b5c3d084259b2a931f/191:100/w_1280,c_limit/Hall-Effect-Sensor-Keyboard-Closeup-Reviewer-Photo-SOURCE-Henri-Robbins-(2).jpg",
+            "publishedAt": "2024-11-04T14:00:00Z",
+            "content": "Hall effect sensors are everywhere right now. Keyboards, game controllers, and DIY kits use them for more precise inputs. But with any newly popular device, it can be easy to immediately jump onto th… [+2901 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Ford retracts in Europe with layoffs and lower EV production",
+            "description": "Ford is slashing 4,000 jobs from its European operations, and adjusting production for its Explorer and Capri EVs, as it responds to economic headwinds.",
+            "url": "https://www.theverge.com/2024/11/20/24301507/ford-retracts-in-europe-with-layoffs-and-lower-ev-production",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/tAFJtD58fbtgZA5oeaAxZdJX85E=/0x0:6425x4283/1200x628/filters:focal(3213x2142:3214x2143)/cdn.vox-cdn.com/uploads/chorus_asset/file/25744514/2185099372.jpg",
+            "publishedAt": "2024-11-20T16:54:48Z",
+            "content": "Ford retracts in Europe with layoffs and lower EV production\r\nFord retracts in Europe with layoffs and lower EV production\r\n / The automaker will adjust production of its Explorer and Capri EVs, and … [+2732 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nora Naughton",
+            "title": "A hybrid-car comeback is in the making — and it could be great news for your wallet",
+            "description": "The EV market just had it's toughest year yet, but car companies are marching forward with their strategies.",
+            "url": "https://www.businessinsider.com/automakers-bet-on-hybrids-electric-vehicle-strategy-2024-11",
+            "urlToImage": "https://i.insider.com/6744c14a9f2901eb6036b3e5?width=1024&format=jpeg",
+            "publishedAt": "2024-11-25T18:26:32Z",
+            "content": "Automakers are turning towards hybrid-model production in the coming years as car buyers seek more affordable and efficient EVs.Cavan Images/Getty Images\r\n<ul><li>EV customer bases are changing, so a… [+4868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Life turned to dust': A family's grief after Spain floods",
+            "description": "Brothers Izan, 5, and Rubén, 3, were dragged from their father's arms in Valencia's deadly floods last month.",
+            "url": "https://www.bbc.com/news/articles/cyv7n95472go",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0e01/live/d5bbae90-9df5-11ef-8538-e1655f5a8342.jpg",
+            "publishedAt": "2024-11-09T02:41:43Z",
+            "content": "Rubén (left) and Izan were \"such happy kids\", their aunt said\r\nLike every parent in Valencia that day, Victor Matías had quickly changed his plans, fearing what could be on the way.\r\nThe rain was sti… [+7344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Antuan Goodwin",
+            "title": "Volvo and Polestar EVs Get Tesla Supercharger Access Next Month",
+            "description": "The Swedish premium automakers will begin offering NACS adapters for their 2025 model year electric SUVs starting on Nov. 18.",
+            "url": "https://www.cnet.com/home/electric-vehicles/volvo-polestar-evs-getting-tesla-supercharger-access-next-month/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f4d854fdbd7b50eab085c587d58aeeb17140e159/hub/2024/10/29/d57feca9-13d9-4864-9718-7c1768238084/volvo-ex90-supercharger.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-30T10:56:00Z",
+            "content": "Owners of shiny Scandinavian electric cars and SUVs will soon have access to more than 17,800 new charging stations across North America. After adopting the North American Charging System standard la… [+2684 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Nikon’s entry-level Z50II adds a dedicated button for color styles",
+            "description": "The Nikon Z50II includes a faster processor enabling improved autofocus, video captures up to 4K at 60 fps, and real-time previews of over 30 film-inspired effects.",
+            "url": "https://www.theverge.com/2024/11/7/24289897/nikon-z50ii-digital-camera-crop-sensor-mirrorless-aps-c",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Az3Mh2eiHbm2DCOqEgbVPGjFD9s=/0x0:2500x1667/1200x628/filters:focal(1250x834:1251x835)/cdn.vox-cdn.com/uploads/chorus_asset/file/25719489/nikonz50ii_1.jpg",
+            "publishedAt": "2024-11-07T15:03:51Z",
+            "content": "Nikons entry-level Z50II adds a dedicated button for color styles\r\nNikons entry-level Z50II adds a dedicated button for color styles\r\n / The 20.9-megapixel Nikon Z50II also has a faster processor and… [+2725 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Archer Aviation gets another big order for its futuristic air taxis",
+            "description": "Archer struck a deal with Japan’s Soracle to sell 100 of its Midnight electric vertical takeoff and landing aircraft in a deal valued at $500 million.",
+            "url": "https://www.theverge.com/2024/11/7/24290281/archer-soracle-evtol-air-taxi-japan",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ViOss84QG0cKkJ18yHJqZtELCOo=/0x0:3840x2294/1200x628/filters:focal(1920x1147:1921x1148)/cdn.vox-cdn.com/uploads/chorus_asset/file/25719442/2024_1106_Japan_v1_2.jpg",
+            "publishedAt": "2024-11-07T13:00:00Z",
+            "content": "Archer Aviation gets another big order for its futuristic air taxis\r\nArcher Aviation gets another big order for its futuristic air taxis\r\n / The startup will bring its electric vertical takeoff and l… [+3543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Gault",
+            "title": "Neom, Saudi Arabia’s Futuristic City, Suddenly Loses Its CEO",
+            "description": "Pitched as a mix of ‘Blade Runner’ and ‘Jurassic Park,’ Neom is the world’s biggest construction project. Twenty-one thousand people have died so far to make it happen.",
+            "url": "https://gizmodo.com/neom-saudi-arabias-futuristic-city-suddenly-loses-its-ceo-2000523724",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/NEOMFUTURE.jpg",
+            "publishedAt": "2024-11-12T19:30:38Z",
+            "content": "Neom, Saudi Arabias urban development project thats building the city of the future in the middle of the desert, has lost its leader. Nadhmi al-Nasr, a Saudi chemical engineer, has led the project si… [+2321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "The Price of The Dyson V11 Plummets on Black Friday, as Amazon Clears Stock at 40% Off",
+            "description": "Amazon is offering a $220 discount on one of the newest Dyson models.",
+            "url": "https://gizmodo.com/the-price-of-the-dyson-v11-plummets-on-black-friday-as-amazon-clears-stock-at-40-off-2000527500",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/dyson-v11-origin-1.jpg",
+            "publishedAt": "2024-11-21T12:43:28Z",
+            "content": "Amazon is offering an amazing Black Friday deal on the Dyson V11 Origin cordless vacuum, slashing the price to an unprecedented $349 – a massive 40% off its regular $569 price tag. This is a new reco… [+2288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "VW launches $5.8bn tie-up with Tesla rival Rivian",
+            "description": "The firms will share EV technology as they face slowing demand and competition from Chinese rivals.",
+            "url": "https://www.bbc.com/news/articles/c5yr90lmjpno",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f081/live/b740d760-a16a-11ef-835d-131cc03dd2cf.jpg",
+            "publishedAt": "2024-11-13T04:07:44Z",
+            "content": "Volkswagen Group (VW) and Tesla rival Rivian have launched a joint venture, with the German car giant increasing its investment in the partnership.\r\nThe two companies say the the deal is now worth $5… [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Maxwell",
+            "title": "Lyft Settles with the Justice Department Over Claim It Misled Drivers About Potential Earnings",
+            "description": "During the pandemic, Lyft told drivers in some cities that they could make over $40 per hour. The Justice Department argued only the most hardcore drivers would make that much.",
+            "url": "https://gizmodo.com/lyft-settles-with-the-justice-department-over-claim-it-misled-drivers-about-potential-earnings-2000519841",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/GettyImages-1998421375.jpg",
+            "publishedAt": "2024-11-02T16:57:17Z",
+            "content": "Lyft has settled a lawsuit filed by the Department of Justice accusing the company of getting drivers back onto the platform during the pandemic by misleading them about how much they could potential… [+2351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Watch: Cars washed away as new flash floods hit Spain",
+            "description": "There were no immediate reports of casualties after heavy rain on Thursday.",
+            "url": "https://www.bbc.com/news/videos/cev928ng1y8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8a8b/live/2f552ef0-9dc3-11ef-8538-e1655f5a8342.jpg",
+            "publishedAt": "2024-11-08T11:41:51Z",
+            "content": "Footage shows flooding surging through the Spanish town of Cadaqués, in the Girona province. \r\nCars can be seen been swept away and piled against a bridge. There were no immediate reports of casualti… [+167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "Trump Admin Reportedly Wants to Unleash Driverless Cars on America",
+            "description": "The new Trump administration wants to clear the way for autonomous travel, safety standards be damned.",
+            "url": "https://gizmodo.com/trump-reportedly-wants-to-unleash-driverless-cars-on-america-2000525955",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Donald-Trump-and-Elon-Musk-at-a-UFC-fight.jpg",
+            "publishedAt": "2024-11-18T22:10:57Z",
+            "content": "New reporting claims President-elect Donald Trump is paving the way for broader deployment of autonomous vehicles on America’s roadways, a development that could benefit his fellow billionaire, campa… [+3811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Popular Science"
+            },
+            "author": "Harri Weber",
+            "title": "Why aren’t we driving hydrogen powered cars yet? There’s a reason EVs won.",
+            "description": "The underlining tech of hydrogen passenger cars can still be transformative.\nThe post Why aren’t we driving hydrogen powered cars yet? There’s a reason EVs won. appeared first on Popular Science.",
+            "url": "https://www.popsci.com/science/hydrogen-cars/",
+            "urlToImage": "https://www.popsci.com/wp-content/uploads/2024/10/toyota-hydrogen.png?quality=85",
+            "publishedAt": "2024-10-30T13:00:00Z",
+            "content": "Hydrogen fuel-cell vehicles arent just fodder for science fiction or far-out R&amp;D experiments. Cars fueled by hydrogen, like the Toyota Mirai and Hyundai Nexo, are already here, and fuel-cell tech… [+4376 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Selima Hussain,Yuelei Song",
+            "title": "What caused Spain's deadly flash floods?",
+            "description": "A year's worth of rain slammed Spain in just one day, leading to catastrophic flash floods that have killed at least 155 people.",
+            "url": "https://www.businessinsider.com/what-caused-the-deadly-flash-floods-in-valencia-spain-2024-10",
+            "urlToImage": "https://i.insider.com/6723f0609b3250dbbceb92c9?width=1200&format=jpeg",
+            "publishedAt": "2024-10-31T21:42:38Z",
+            "content": "A year's worth of rain slammed Spain in just one day, leading to catastrophic flash floods that have killed at least 158 people. Footage shows dozens of cars overtaking streets in Valencia and emerge… [+159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ben Kesslen",
+            "title": "6 popular cars you actually shouldn't buy, according to Consumer Reports — and the 6 to buy instead",
+            "description": "Car shopping means sorting through endless choices, reviews, and specs. But not all best-sellers earn their popularity – something Consumer Reports...",
+            "url": "https://www.yahoo.com/tech/6-popular-cars-actually-shouldnt-110000675.html",
+            "urlToImage": "https://media.zenfs.com/en/quartz.com/a01c28f33a7fa206ad860153a87b6033",
+            "publishedAt": "2024-11-02T11:00:00Z",
+            "content": "Car shopping means sorting through endless choices, reviews, and specs. But not all best-sellers earn their popularity something Consumer Reports discovered in their latest testing of 2024 models.\r\nC… [+3783 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Leslie Sattler",
+            "title": "Chinese automaker unveils plans for flying vehicle that could change the way we think about cars — here's what we know",
+            "description": "The vehicle will debut at the China Airshow and Guangzhou International Auto Show later this month.",
+            "url": "https://autos.yahoo.com/chinese-automaker-unveils-plans-flying-110044400.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Z10urp.9qLTvb3pJX6aLHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_cool_down_737/423b4795ffe4a28306decf75535e0f52",
+            "publishedAt": "2024-11-08T11:00:44Z",
+            "content": "Have you ever dreamed of a future in which your car can drive you around, then launch a flying vehicle for a quick aerial commute? Thanks to Xpeng Aeroht's new electric car, the Land Aircraft Carrier… [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Viksnewsletter.com"
+            },
+            "author": "Vik's Newsletter",
+            "title": "A Short Introduction to Automotive Lidar Technology",
+            "description": "A guide to the operating principles, techniques and technology in lidar systems for self driving cars.",
+            "url": "https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc68959f4-8bfc-412e-ae61-9027a0d864ad_1456x1048.png",
+            "publishedAt": "2024-11-25T20:12:27Z",
+            "content": "Ubiquitous adoption of lidar in self driving cars needs one major thing: lower cost. \r\nLidar has proven to be a capable technology for level 4 autonomous driving, and is already used in self driving … [+16178 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nora Naughton",
+            "title": "The China threat and the EV slowdown— 2 takeaways from a busy few weeks in auto news",
+            "description": "EV leaders are facing roadblocks heading into the final quarter of 2024.",
+            "url": "https://www.businessinsider.com/auto-industry-faces-trouble-in-china-ev-slowdown-2024-11",
+            "urlToImage": "https://i.insider.com/672518ec9b3250dbbcebbaed?width=1200&format=jpeg",
+            "publishedAt": "2024-11-03T17:21:01Z",
+            "content": "Europe's automakers are under pressure amid slowing EV sales.FREDERICK FLORIN / AFP\r\n<ul><li>Car companies are cutting costs heading into the end of the year.</li><li>A price war in China poses a thr… [+3321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "lcamtuf",
+            "title": "A 15-minute intro to involute gears",
+            "description": "Involute gears are everywhere: toys, kitchen appliances, cars. But what's so special about their shape?",
+            "url": "https://lcamtuf.substack.com/p/a-15-minute-intro-to-involute-gears",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafd8ad4e-d850-4f85-b086-1cad668e157a_3000x1122.png",
+            "publishedAt": "2024-11-17T07:52:08Z",
+            "content": "In one of the earlier posts, I mentioned my perennial side hobby: CNC machining. In theory, its a straightforward and hassle-free way to make just about anything in the privacy of your home. In reali… [+5811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Car Dealer Magazine"
+            },
+            "author": "John Gruber",
+            "title": "‘Inside the Rather Bizarre Relaunch of Jaguar’",
+            "description": "Jaguar unveiled a new look, logo and direction for its cars at what was quite possibly the most bizarre automotive media launch I’ve ever attended –",
+            "url": "https://cardealermagazine.co.uk/publish/hallucinogenic-sci-fi-movie-inside-the-rather-bizarre-relaunch-of-jaguar/310077",
+            "urlToImage": "https://dotyumzonirqv.cloudfront.net/publish/wp-content/uploads/2024/11/JAGUAR_BRAND_STILL_COPY_NOTHING_191124-scaled.jpg",
+            "publishedAt": "2024-11-20T01:35:14Z",
+            "content": "Jaguar unveiled a new look, logo and direction for its cars at what was quite possibly the most bizarre automotive media launch Ive ever attended heres what happened.\r\nHeld at its Gaydon HQ, on Armis… [+6264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Todd Feathers",
+            "title": "Police Celebrate as Absurd ‘Grappler’ Device Ends Chase With a Crash",
+            "description": "Police departments across the country love sharing videos of officers causing fleeing cars to crash with Grappler nets.",
+            "url": "https://gizmodo.com/police-celebrate-as-absurd-grappler-device-ends-chase-with-a-crash-2000523266",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/police-chase-grappler.jpg",
+            "publishedAt": "2024-11-11T22:20:36Z",
+            "content": "Police car chases are notoriously dangerous, with high-speed pursuits resulting in hundreds of fatal crashes each year. And while the Department of Justice and national policing experts have recommen… [+2410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "British man, 71, dies after being rescued from Spain floods",
+            "description": "The president of the Andalusian government says the man suffered \"several\" heart attacks.",
+            "url": "https://www.bbc.com/news/articles/cj9n1zdvkyzo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d2f0/live/510a1d90-9750-11ef-9260-19e6a950e830.jpg",
+            "publishedAt": "2024-10-31T08:03:15Z",
+            "content": "A British man has died hours after being rescued from his home on the outskirts of Málaga, Spain, after intense flooding hit parts of the country, local officials say.\r\nThe 71-year-old - who has not … [+2152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Watch first wave of flood water gushing through town in Valencia",
+            "description": "Cars were still driving along streets when the Valencian town of Paiporta was hit by devastating floods.",
+            "url": "https://www.bbc.com/news/videos/cvgwepw0y7eo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7b13/live/82e80840-9868-11ef-9260-19e6a950e830.jpg",
+            "publishedAt": "2024-11-01T16:09:10Z",
+            "content": "Footage shows the moment a first wave of flood water washed through the streets of Paiporta in Spain.\r\nCars were still driving along streets when the Valencian town was hit, where the impact of the f… [+196 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "David McMillin",
+            "title": "I Had ChatGPT Brainstorm Holiday Gift Ideas for My Family. Frankly, It Sucked",
+            "description": "One of the stores the AI suggested doesn't even exist.",
+            "url": "https://www.cnet.com/personal-finance/banking/i-had-chatgpt-brainstorm-holiday-gift-ideas-for-my-family-frankly-it-sucked/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4e0fd902d4a935f6e3b45c76f89093c7e71203eb/hub/2024/10/30/a2c0e7fe-6330-4d80-9332-8a0cbd3f7859/i-used-chatgpt-to-build-a-holiday-gift-budget-heres-how-it-went.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-14T20:35:00Z",
+            "content": "The most wonderful time of the year is around the corner. But there's one part of the season I don't find particularly wonderful: trying to find the best gifts for my loved ones within my budget.\r\nAI… [+9203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Residents 'frustrated' by repeated flooding",
+            "description": "Parts of Coalisland and Dundonald damaged by Storm Bert on Saturday have been flooded before.",
+            "url": "https://www.bbc.com/news/articles/cj9nxvey74lo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aa2d/live/626355e0-ab08-11ef-b429-5b139d1e7a7e.jpg",
+            "publishedAt": "2024-11-25T09:07:55Z",
+            "content": "People who have experienced repeated flooding feel their \"houses and livelihoods are on the line\" every time a storm is forecast, a Mid Ulster councillor has said. \r\nDan Kerr was speaking as clean-up… [+2342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Ultra-rich using jets like taxis, climate scientists warn",
+            "description": "Researchers worked out the amount of planet-warming gas released by private jets over four years.",
+            "url": "https://www.bbc.com/news/articles/cx2lvq4el5vo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/770f/live/28ce6100-9cf1-11ef-82c3-45a801b7330b.jpg",
+            "publishedAt": "2024-11-07T16:37:44Z",
+            "content": "The mega-rich are using private jets like taxis, warn climate scientists who tracked flights to calculate the planet-warming gases they release.\r\nThe scientists worked out that the carbon dioxide emi… [+4671 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "Volkswagen stumbles in China as Germany's auto giants struggle to compete in the EV race",
+            "description": "Volkswagen is mulling the closure of factories in Germany for the first time to cut costs, while rivals BMW and Mercedes-Benz face their own problems.",
+            "url": "https://www.businessinsider.com/germany-auto-giants-volkswagen-bmw-mercedes-struggle-sales-china-evs-2024-10",
+            "urlToImage": "https://i.insider.com/6720c6d801ea6d83dee4a952?width=1200&format=jpeg",
+            "publishedAt": "2024-10-30T11:13:02Z",
+            "content": "Volkswagen is searching for ways to cut costs. JENS SCHLUETER / AFP\r\n<ul><li>Germany's automotive industry is facing an increasingly difficult outlook.</li><li>Volkswagen may close factories in Germa… [+6341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Drive"
+            },
+            "author": "Ronan Glon",
+            "title": "Somebody Please Get Me This Desktop Wind Tunnel for Christmas",
+            "description": "Ever wanted to compare the aerodynamics of your diecast cars? Fun Tech Lab's mini wind tunnel is the ultimate enthusiast desk decor.",
+            "url": "https://www.thedrive.com/news/funtech-lab-scaled-down-desktop-toy-car-wind-tunnel-price-specs-pictures",
+            "urlToImage": "https://www.thedrive.com/wp-content/uploads/2024/10/Windsible-Wallpaper-7-copy.jpg",
+            "publishedAt": "2024-11-03T15:05:20Z",
+            "content": "Sometimes, the answer to the question no one asked is the best answer of them all. No one genuinely needs a wind tunnel to put their toy cars in, and yet that’s precisely what a startup has been work… [+1900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Suspects nabbed for 'man in bear suit' insurance scam",
+            "description": "Four people are accused of using footage of a fake bear damaging luxury cars to file false insurance claims in California.",
+            "url": "https://www.bbc.com/news/articles/c5y54dzz4g9o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/49d7/live/fae55f00-a2ae-11ef-a4fe-a3e9a6c5d640.jpg",
+            "publishedAt": "2024-11-14T18:25:52Z",
+            "content": "Four people have been arrested after allegedly filing fake insurance claims stating that a bear had damaged the interiors of three luxury cars. \r\nVideo footage submitted to insurers as evidence showe… [+2032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Maxwell",
+            "title": "Elon Musk ‘Doesn’t Know How to Make a Battery,’ Rival Says",
+            "description": "Robin Zeng, founder and chairman of CATL, says Musk's 4860 battery design \"is going to fail and never be successful.\"",
+            "url": "https://gizmodo.com/elon-musk-doesnt-know-how-to-make-a-battery-rival-says-2000525007",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/GettyImages-2171769626.jpg",
+            "publishedAt": "2024-11-15T15:35:23Z",
+            "content": "The founder and chairman of CATL, one of the world’s largest suppliers of batteries, says Elon Musk’s 4860 battery technology will never be successful. Robin Zeng made the comments in an interview wi… [+2565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Waymo Drops Waitlist, Opens Robotaxis to Anyone in Los Angeles",
+            "description": "The driverless vehicles still can't take L.A.'s notorious highways.",
+            "url": "https://gizmodo.com/waymo-drops-waitlist-opens-robotaxis-to-anyone-in-los-angeles-2000523658",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/GettyImages-2071907679.jpg",
+            "publishedAt": "2024-11-12T19:00:28Z",
+            "content": "Waymo, the robotaxi service owned by Alphabet, has dropped its waitlist of roughly 300,000 people and will now be open to anyone with a smartphone in Los Angeles, according to an announcement on the … [+2969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Gault",
+            "title": "Billionaires Are the One Case Where Personal Choices Can Affect Climate Change",
+            "description": "A new study found that half of the world’s carbon emissions come from the richest 10% of people.",
+            "url": "https://gizmodo.com/billionaires-are-the-one-case-where-personal-choices-can-affect-climate-change-2000518380",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/ElonPrivateJet.jpg",
+            "publishedAt": "2024-10-30T15:50:09Z",
+            "content": "Jezz Bezos and Elon Musk emit more carbon pollution in 90 minutes than the average human does in their entire life. Thats according to a new report from Oxfam International, a British NGO that fights… [+3309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "ISeeCars.com",
+            "title": "The 23 Most Dangerous Cars On The Road",
+            "description": "These vehicles are up to five times more likely to have had a fatal crash",
+            "url": "https://autos.yahoo.com/23-most-dangerous-cars-road-031627271.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jLdc12rluNBDcFxiWEjYqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/iseecars_com_articles_716/876b7d30c918ce8d81ccae692e2aa35e",
+            "publishedAt": "2024-11-25T03:16:27Z",
+            "content": "Highlights:\r\n<ul><li>The top five most dangerous cars are the Hyundai Venue, Chevrolet Corvette, Mitsubishi Mirage, Porsche 911, and Honda CR-V Hybrid, with fatal accident rates nearly five times hig… [+13783 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nora Naughton",
+            "title": "Trump has been tough on EVs. Now Elon Musk is his best friend and nobody knows how it'll play out.",
+            "description": "It's hard to tell how Musk will impact Trump's EV agenda over the next four years.",
+            "url": "https://www.businessinsider.com/trump-elon-musk-electric-vehicle-policy-ev-tariffs-2024-11",
+            "urlToImage": "https://i.insider.com/6740e4609f2901eb60367414?width=1200&format=jpeg",
+            "publishedAt": "2024-11-25T10:57:02Z",
+            "content": "President-elect Donald Trump greets Elon Musk before the launch of the sixth test flight of the SpaceX Starship rocket Tuesday, Nov. 19, 2024 in Brownsville, Texas.Brandon Bell/Pool via AP\r\n<ul><li>T… [+4099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "Severe storms hit Oklahoma, causing injuries and leaving thousands without power",
+            "description": "Severe storms and reported tornadoes swept across Oklahoma early Sunday, causing injuries and widespread power outages, according to authorities.",
+            "url": "https://www.npr.org/2024/11/03/g-s1-31903/severe-storms-hit-oklahoma-causing-injuries-and-leaving-thousands-without-power",
+            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+            "publishedAt": "2024-11-03T12:55:18Z",
+            "content": "OKLAHOMA CITY Severe storms and reported tornadoes swept across Oklahoma early Sunday, causing injuries and widespread power outages, according to authorities.\r\nA destructive path of severe weather i… [+861 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Associated Press",
+            "title": "The first car made during Soviet-era in Poland goes on display 73 years later",
+            "description": "The very first car produced in Soviet-era Poland after World War II went on display Friday near Warsaw after it was tracked down in Finland during decades of...",
+            "url": "https://www.yahoo.com/lifestyle/first-car-made-during-soviet-154200287.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p2nRy71QFukFkAYDQx010Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/e99ba7fe69706c291f20e533689f4710",
+            "publishedAt": "2024-11-06T15:42:00Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nO… [+2896 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "James Fallows",
+            "title": "After the Election, California (Yes, That Hellscape) Will Keep Moving the World Forward No Matter What",
+            "description": "The state has been written off as a woke wasteland. But it's still inventing the future on a bunch of frontiers nobody's talking about. Even if Trump wins, it will remain a golden, global example.",
+            "url": "https://www.wired.com/story/california-will-keep-moving-the-world-forward/",
+            "urlToImage": "https://media.wired.com/photos/67210b73fdc82da59d1ddbb8/191:100/w_1280,c_limit/CAF_Lindsey_Price_FINAL.jpg",
+            "publishedAt": "2024-10-31T10:00:00Z",
+            "content": "Just take the area of gasoline-powered transportation. After World War II, when American car culture was famously getting minted in Southern California, the state used a gas tax hike to build out one… [+5644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Charliegerard.dev"
+            },
+            "author": null,
+            "title": "Hacking cars in JavaScript (Replay attacks in the browser with the HackRF)",
+            "description": "Collection of side projects, conference talks and blog posts experimenting with frontend technologies and human-computer interaction",
+            "url": "https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/",
+            "urlToImage": "https://res.cloudinary.com/devdevcharlie/image/upload/v1725162356/Group_59_j55dvo.png",
+            "publishedAt": "2024-11-02T20:05:17Z",
+            "content": "A couple of years ago, I built a project using the RTL-SDR to get live raw data from passing airplanes, in the browser.\r\nAs I wanted to explore more using Software-Defined Radios, I bought a HackRF O… [+13001 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Andrew Lanxon",
+            "title": "I Drove 4,000 Miles Across Europe in Lotus' Incredible Electric SUV",
+            "description": "I took the Lotus Eletre EV on a huge road trip, facing deserts, blizzards and painfully narrow mountain roads.",
+            "url": "https://www.cnet.com/home/electric-vehicles/i-drove-4000-miles-across-europe-in-lotus-incredible-electric-suv/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/9e14698b120a49ed9dbaa53f73bf0e287dcf5092/hub/2024/06/13/d110e7cc-fc74-4ed5-a16a-b1ce67073474/lotus-eletre-review-cnet-14.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-30T12:00:09Z",
+            "content": "The Lotus Eletre S EV is one of the most accomplished electric SUVs money can buy. It has huge range range, killer looks and a luxury interior packed with high-tech additions. But the China-made car … [+17677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Ida Torres",
+            "title": "Blackird demonstrator may show the future of flying cars",
+            "description": "Blackird demonstrator may show the future of flying carsIf you think that we’re still decades away from having flying cars traversing the atmosphere, you’ve probably not kept up with the latest news in...",
+            "url": "https://www.yankodesign.com/2024/11/07/blackird-demonstrator-may-show-the-future-of-flying-cars/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2024/11/blackird-demonstrator-may-show-the-future-of-flying-cars/Blackbird-01.jpg",
+            "publishedAt": "2024-11-07T18:20:38Z",
+            "content": "If you think that we’re still decades away from having flying cars traversing the atmosphere, you’ve probably not kept up with the latest news in aviation. While we still probably won’t see any by ne… [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Christian de Looper",
+            "title": "Kia EV4: everything we know so far",
+            "description": "Kia is set to release a few more cars in its EV lineup, including the Kia EV4, which was announced as a sedan, but has also been spotted as a hatchback.",
+            "url": "https://www.digitaltrends.com/cars/kia-ev4-design-everything-we-know-so-far/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/10/kia-ev4-3.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-11-15T22:00:08Z",
+            "content": "Kia\r\nKia is continuing to expand its electric car lineup. The EV6 and EV9 have both been out for some time now, and the company is in the middle of rolling out the EV3 in Europe, with a North America… [+5487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "John Prescott: Seven big moments in life of Labour legend",
+            "description": "Lord Prescott spent a decade as Tony Blair's deputy and was seen as a custodian of traditional Labour values.",
+            "url": "https://www.bbc.com/news/articles/cq8v1q2xn1lo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2786/live/27e15050-a812-11ef-b5a2-8df18fa9b3b1.jpg",
+            "publishedAt": "2024-11-21T17:32:42Z",
+            "content": "John Prescott, the Labour Party stalwart who rose from being a steward on a cruise ship to serving as deputy prime minister for a record ten years, has died at the age of 86. \r\nFormer prime ministers… [+6999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Man who called 911 for help with intruder shot dead by US police",
+            "description": "Brandon Durham was tussling with a female intruder over a knife when an officer shot him multiple times.",
+            "url": "https://www.bbc.com/news/articles/ckglp4nz75zo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/78bf/live/4941d880-a7a1-11ef-bdf5-b7cb2fa86e10.jpg",
+            "publishedAt": "2024-11-21T00:46:10Z",
+            "content": "A 43-year-old father was fatally shot by police in Las Vegas after he called 911 for help while fighting off an intruder in his home.\r\nThe family of Brandon Durham, including his 15-year-old daughter… [+3013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "kottke.org"
+            },
+            "author": "Aaron Cohen",
+            "title": "Downhill Skateboarding",
+            "description": "On these downhill skateboarding things, I’m always wondering why there aren’t any cars, but uh, there are cars in this",
+            "url": "https://kottke.org/24/11/downhill-skateboarding",
+            "urlToImage": "https://i.ytimg.com/vi/yn-TfAzobDI/sddefault.jpg",
+            "publishedAt": "2024-11-17T16:00:04Z",
+            "content": "×Hello! In order to leave a comment, you need to be a current kottke.org member. If you'd like to sign up for a membership to support the site and join the conversation, you can explore your options … [+394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Jalopnik Staff",
+            "title": "MAGA Cars, Automotive Gimmicks And Cars That Could Save Stellantis In This Week's QOTD Roundup",
+            "description": "Elon Musk will be in charge of the federal budget next year, from which he’s promised to cut a truly impossible amount of money. But you don’t find $2 trillion just by cutting your entire staff so nothing works except your burned-out employees — you need to t…",
+            "url": "https://jalopnik.com/maga-cars-automotive-gimmicks-and-cars-that-could-save-1851700527",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a207b238c97bdffaf388fdc07bf22cb1.jpg",
+            "publishedAt": "2024-11-16T14:00:00Z",
+            "content": "The automotive world is filled with amazing technology and design choices, like vented seats and the rear quarter of the Kia EV6. There are also some automotive additions that leave us questioning th… [+107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Westernslopenow.com"
+            },
+            "author": "Andrew Kiser",
+            "title": "Car crashes into Fruita home",
+            "description": "The Fruita Police Department and Lower Valley Fire District are currently on the scene.",
+            "url": "https://www.westernslopenow.com/news/car-crashes-into-fruita-home/",
+            "urlToImage": "https://media.zenfs.com/en/krex_articles_712/61dde664bd290dc0aba21a3f897c9b9d",
+            "publishedAt": "2024-11-07T19:47:47Z",
+            "content": "FRUITA, Colo. (KREX) A two-vehicle crash ended with one of the cars crashing into a Fruita home around noon, Thursday, around the area of East Aspen Avenue and South Pine Street.\r\nAccording to law en… [+859 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "shubhangigoel@insider.com (Shubhangi Goel)",
+            "title": "Nissan is slashing 9,000 jobs after a dire financial performance",
+            "description": "The company is also cutting production capacity by 20%.",
+            "url": "https://www.businessinsider.com/nissan-cutting-9-000-jobs-globally-production-capacity-reduce-costs-2024-11",
+            "urlToImage": "https://i.insider.com/672c760988cea3ba1c1edbb2?width=1200&format=jpeg",
+            "publishedAt": "2024-11-07T08:26:13Z",
+            "content": "Nissan is cutting 9,000 jobs globally in an effort to cut costs, the Japanese automobile giant said in an earnings statement on Thursday.\r\nNissan said that sales volumes decreased year-on-year to 1.6… [+1160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Erin Marquis",
+            "title": "This May Be The Most Hilarious Catalytic Converter Theft Of All Time",
+            "description": "Detroit is a world-class city with some F-tier criminals. Several of these criminals went to great lengths this week to steal a single catalytic converter...",
+            "url": "https://jalopnik.com/this-may-be-the-most-hilarious-catalytic-converter-thef-1851693321?utm_source=YPL",
+            "urlToImage": "https://media.zenfs.com/en/jalopnik_622/61dece62600bc4151a29a38ff8c592b2",
+            "publishedAt": "2024-11-08T16:49:51Z",
+            "content": "Detroit is a world-class city with some F-tier criminals. Several of these criminals went to great lengths this week to steal a single catalytic converter from a used car lot and gained themselves a … [+1716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Tom McParland",
+            "title": "At $229 Per Month, The $52,000 Prologue Is Cheaper To Lease Than Any Other Honda Model",
+            "description": "While the EV market is experiencing rapid sales growth, many car buyers still prefer hybrids as they benefit from reduced fuel usage but don’t have to worry ...",
+            "url": "https://jalopnik.com/at-229-per-month-the-52-000-prologue-is-cheaper-to-l-1851707170?utm_source=YPL",
+            "urlToImage": "https://media.zenfs.com/en/jalopnik_622/0d5e07d6fcc40b19772a5e7fc58c3c4f",
+            "publishedAt": "2024-11-25T14:45:00Z",
+            "content": "Photo: Andy Kalmowitz / Jalopnik\r\nWhile the EV market is experiencing rapid sales growth, many car buyers still prefer hybrids as they benefit from reduced fuel usage but dont have to worry about a c… [+3268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Gael Cooper",
+            "title": "Today's NYT Connections Hints, Answers and Help for Oct. 31, #508",
+            "description": "Here's today's Connections answer and hints for groups. These clues will help you solve New York Times' popular puzzle game, Connections, every day!",
+            "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-31-508/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4479965e66e87adf111a6c2bc6765477e0b99c5e/hub/2024/04/30/cdc97512-da91-4895-8db4-90fa31dd8d25/word-games-connections-ny-times-9453.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-31T03:00:04Z",
+            "content": "Looking for the most recent Connections answers? Click here for today's Connections hints, as well as our daily answers and hints for The New York Times Mini Crossword, Wordle and Strands puzzles.\r\nN… [+2794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 31 Denver"
+            },
+            "author": "Maddie Rhodes",
+            "title": "These cars won’t be allowed on parts of Colorado highways due to snowstorm",
+            "description": "The Colorado Department of Transportation is restricting cars on several highways out of Denver and into the mountains for Friday's snowstorm.",
+            "url": "https://kdvr.com/news/local/these-cars-wont-be-allowed-on-parts-of-colorado-highways-due-to-snowstorm/",
+            "urlToImage": "https://media.zenfs.com/en/kdvr_denver_articles_499/6f79c9500c7854f99301e9786d0a0201",
+            "publishedAt": "2024-11-08T18:44:03Z",
+            "content": "DENVER (KDVR) The Colorado Department of Transportation is restricting cars on several highways out of Denver and into the mountains ahead of the Friday snowstorm.\r\nThe snowstorm dumped over a foot o… [+2307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "MAKIYA SEMINERA",
+            "title": "Man is charged in highway shootings around North Carolina's capital city",
+            "description": "A man accused of firing at occupied cars on a busy North Carolina highway, injuring one person, has been charged with assault and other counts, police said...",
+            "url": "https://www.yahoo.com/news/man-charged-highway-shootings-around-144001817.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/B6h_S2llhQcFfr8cQoKB2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ap.org/8f3c4d243beb17d1aa7f0a10c2147184",
+            "publishedAt": "2024-11-08T14:40:01Z",
+            "content": "RALEIGH, N.C. (AP) A man accused of firing at occupied cars on a busy North Carolina highway, injuring one person, has been charged with assault and other counts, police said Friday.\r\nThe 23-year-old… [+1259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Card 3% Daily Cash Back Now Available From Two More Apple Partners",
+            "description": "Apple has partnered with select merchants to offer Apple Card users three percent Daily Cash back on their purchases, and two new companies were added to the partner list today. When purchasing goods and services from Booking.com and ChargePoint, ‌Apple Card‌…",
+            "url": "https://www.macrumors.com/2024/11/19/apple-card-daily-cash-back-more-partners/",
+            "urlToImage": "https://images.macrumors.com/t/-2E3U2ByiSk7CRg0pPN9YpsxOqg=/1600x/article-new/2020/04/apple-card-feature2.jpg",
+            "publishedAt": "2024-11-19T18:36:41Z",
+            "content": "Apple has partnered with select merchants to offer Apple Card users three percent Daily Cash back on their purchases, and two new companies were added to the partner list today. When purchasing goods… [+1235 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "At least 95 people die in devastating flash floods in Spain",
+            "description": "Spain's national weather service said it rained more in eight hours in Valencia than it had in the preceding 20 months.",
+            "url": "https://www.npr.org/2024/10/31/g-s1-31153/spain-floods-deaaths-malaga-valencia",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5319x2992+0+277/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Fa3%2Fdd85af5548ce81fc2a93d993ac52%2Fap24304349501002.jpg",
+            "publishedAt": "2024-10-31T05:33:17Z",
+            "content": "UTIEL, Spain Flash floods in Spain turned village streets into rivers, ruined homes, disrupted transportation and killed at least 95 people in the worst natural disaster to hit the European nation in… [+6374 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Jeremy Hsu",
+            "title": "AI helps driverless cars predict how unseen pedestrians may move",
+            "description": "A specialised algorithm could help autonomous vehicles track hidden objects, such as a pedestrian, a bicycle or another vehicle concealed behind a parked car",
+            "url": "https://www.newscientist.com/article/2453516-ai-helps-driverless-cars-predict-how-unseen-pedestrians-may-move/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/10/28132604/SEI_227465394.jpg",
+            "publishedAt": "2024-10-29T14:00:19Z",
+            "content": "A driverless car in downtown Los Angeles\r\nAllen J. Schaben/Los Angeles Times/Getty Images\r\nThe artificial intelligence systems that control driverless cars can still struggle to predict the sudden ap… [+490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Firefighters take 1,000 calls during Bonfire Night attacks",
+            "description": "Police and firefighters were targeted by fireworks, bricks and bottles in pockets of disorder across Scotland.",
+            "url": "https://www.bbc.com/news/articles/c9wr182e5pko",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0fb2/live/86f1dac0-9c18-11ef-9260-19e6a950e830.jpg",
+            "publishedAt": "2024-11-06T08:24:10Z",
+            "content": "Watch: Fireworks set off on Glasgow street on Bonfire Night\r\nFirefighters says they responded to more than 1,000 calls on Bonfire Night with crews \"bombarded\" by missiles and fireworks.\r\nThe Scottish… [+3515 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "Trump's tariffs will make it hard for automakers — including Tesla — to set up shop in Mexico",
+            "description": "Donald Trump's idea of imposing 200%-plus tariffs on vehicles imported from Mexico could throw the US auto industry into crisis, analysts say.",
+            "url": "https://www.businessinsider.com/trump-tariffs-threaten-elon-musk-tesla-mexico-factory-limbo-2024-11",
+            "urlToImage": "https://i.insider.com/672e0c7e88cea3ba1c1f1d72?width=1200&format=jpeg",
+            "publishedAt": "2024-11-11T10:09:00Z",
+            "content": "A billboard welcoming Tesla to the Mexican state of Nuevo León, which was set to host Tesla's gigafactory.JULIO CESAR AGUILAR/AFP via Getty Images\r\n<ul><li>Tesla's $10 billion Mexico gigafactory is i… [+5774 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Graham Rapier",
+            "title": "Why Musk supports Trump getting rid of EV tax credits",
+            "description": "Elon Musk has said ending tax credits of up to $7,500 for electric vehicle purchases would \"devastate\" Tesla's competitors.",
+            "url": "https://www.businessinsider.com/why-tesla-elon-musk-supports-trump-ending-ev-tax-credits-2024-11",
+            "urlToImage": "https://i.insider.com/6736641e192f52589858a6b3?width=1200&format=jpeg",
+            "publishedAt": "2024-11-14T22:28:05Z",
+            "content": "Tesla still has a commanding lead in the US EV market, but competition is slowly catching up.ANGELA WEISS / AFP\r\n<ul><li>Tesla stands to benefit from any removal of consumer tax credits on electric v… [+5025 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Students warned after Bonfire Night firework 'war'",
+            "description": "Meanwhile, some students in Nottingham tell of their fears after the fireworks \"war\" on Bonfire Night.",
+            "url": "https://www.bbc.com/news/articles/c3rx4lnqxxgo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13ca/live/90f46b70-9dba-11ef-82c3-45a801b7330b.png",
+            "publishedAt": "2024-11-08T10:01:31Z",
+            "content": "Caroline Asiedu (left) and Akua Appenteng witnessed the firework fights\r\nUniversities have warned action will be taken against any students found to be involved in a fireworks \"war\" in Nottingham. \r\n… [+3599 chars]"
+        }
+    ]
+}
