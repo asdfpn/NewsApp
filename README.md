@@ -6,3 +6,4 @@ Features:
 3. The new articles can be shared amongst other using the share option
 4. The saved news articles can be re visited using the Saved tab
 5. Saved news articles can be search from the list
+6. Main Screen supports pull to refresh the articles
