@@ -44,7 +44,7 @@ struct Article: Codable, Equatable, Identifiable {
     }
     
     var authorText: String {
-        author ?? ""
+        author ?? "Unknown"
     }
     
     var descriptionText: String {

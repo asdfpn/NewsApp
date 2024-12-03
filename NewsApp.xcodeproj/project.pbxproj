@@ -22,6 +22,8 @@
 		DD5113CC2CFDA355009BC3ED /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5113CB2CFDA355009BC3ED /* DataStore.swift */; };
 		DD5113DA2CFDE430009BC3ED /* NewsAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5113D92CFDE430009BC3ED /* NewsAppTests.swift */; };
 		DD5113E32CFDE590009BC3ED /* Mock.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5113E22CFDE58F009BC3ED /* Mock.swift */; };
+		DD5E556C2CFED1F200719389 /* ArticleDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5E556B2CFED1F200719389 /* ArticleDetailView.swift */; };
+		DD5E55702CFED2F100719389 /* StickyHeaderScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5E556F2CFED2F100719389 /* StickyHeaderScrollView.swift */; };
 		DD6482992CF7093E00604415 /* NewsAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD6482982CF7093E00604415 /* NewsAppApp.swift */; };
 		DD64829B2CF7093E00604415 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD64829A2CF7093E00604415 /* ContentView.swift */; };
 		DD64829D2CF7093F00604415 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD64829C2CF7093F00604415 /* Assets.xcassets */; };
@@ -60,6 +62,8 @@
 		DD5113D72CFDE430009BC3ED /* NewsAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD5113D92CFDE430009BC3ED /* NewsAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsAppTests.swift; sourceTree = "<group>"; };
 		DD5113E22CFDE58F009BC3ED /* Mock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mock.swift; sourceTree = "<group>"; };
+		DD5E556B2CFED1F200719389 /* ArticleDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleDetailView.swift; sourceTree = "<group>"; };
+		DD5E556F2CFED2F100719389 /* StickyHeaderScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickyHeaderScrollView.swift; sourceTree = "<group>"; };
 		DD6482952CF7093E00604415 /* NewsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD6482982CF7093E00604415 /* NewsAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsAppApp.swift; sourceTree = "<group>"; };
 		DD64829A2CF7093E00604415 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -127,6 +131,14 @@
 			path = NewsAppTests;
 			sourceTree = "<group>";
 		};
+		DD5E556E2CFED2D700719389 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				DD5E556F2CFED2F100719389 /* StickyHeaderScrollView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
 		DD64828C2CF7093E00604415 = {
 			isa = PBXGroup;
 			children = (
@@ -183,6 +195,7 @@
 		DD6DB9662CF83F23004E79EA /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				DD5E556E2CFED2D700719389 /* Components */,
 				DD6DB9672CF83F52004E79EA /* ArticleView.swift */,
 				DDB462562CF8FBD7000F9559 /* ArticlesListView.swift */,
 				DDB462582CF8FDC1000F9559 /* WebView.swift */,
@@ -190,6 +203,7 @@
 				DD5113C32CFD7F69009BC3ED /* PlaceHolderView.swift */,
 				DD5113C52CFD8042009BC3ED /* RetryView.swift */,
 				DD5113C72CFDA12A009BC3ED /* BookmarkView.swift */,
+				DD5E556B2CFED1F200719389 /* ArticleDetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -306,6 +320,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD64829B2CF7093E00604415 /* ContentView.swift in Sources */,
+				DD5E55702CFED2F100719389 /* StickyHeaderScrollView.swift in Sources */,
 				DD5113B22CFB1D1B009BC3ED /* ArticleService.swift in Sources */,
 				DD5113CC2CFDA355009BC3ED /* DataStore.swift in Sources */,
 				DDB462572CF8FBD7000F9559 /* ArticlesListView.swift in Sources */,
@@ -320,6 +335,7 @@
 				DD5113BC2CFC16FC009BC3ED /* NewsArticlesListViewModel.swift in Sources */,
 				DD5113C42CFD7F69009BC3ED /* PlaceHolderView.swift in Sources */,
 				DD6DB9632CF824DB004E79EA /* Article.swift in Sources */,
+				DD5E556C2CFED1F200719389 /* ArticleDetailView.swift in Sources */,
 				DD6DB9682CF83F52004E79EA /* ArticleView.swift in Sources */,
 				DD5113B42CFB1E48009BC3ED /* Categories.swift in Sources */,
 				DD5113B62CFB3A43009BC3ED /* Constants.swift in Sources */,

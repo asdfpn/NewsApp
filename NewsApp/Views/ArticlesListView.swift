@@ -25,9 +25,8 @@ struct ArticlesListView: View {
         }
         .listStyle(.plain)
         .scrollIndicators(.hidden)
-        .fullScreenCover(item: $selectedArticle) {
-            WebView(url: $0.articleURL)
-                .edgesIgnoringSafeArea(.bottom)
+        .fullScreenCover(item: $selectedArticle) { selectedArticle in
+            ArticleDetailView(article: selectedArticle)
         }
     }
 }
