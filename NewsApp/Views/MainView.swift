@@ -7,9 +7,9 @@
 
 import SwiftUI
 
-struct MainView: View {
+struct MainView<ViewModel: NewsArticlesListViewModelProtocol>: View where ViewModel.ArticleType == Article {
     
-    @StateObject var newsArticlesListViewModel = NewsArticlesListViewModel()
+    @StateObject var newsArticlesListViewModel: ViewModel
     
     var body: some View {
         NavigationView {
@@ -17,11 +17,15 @@ struct MainView: View {
                 .overlay(overlayView)
                 .onAppear {
                     if case .empty = newsArticlesListViewModel.phase {
-                        newsArticlesListViewModel.loadArticles()
+                        Task {
+                            await newsArticlesListViewModel.loadArticles()
+                        }
                     }
                 }
                 .onChange(of: newsArticlesListViewModel.fetchTaskToken.category) { _ in
-                    refreshTask()
+                    Task {
+                        await refreshTask()
+                    }
                 }
                 .refreshable(action: refreshTask)
                 .navigationTitle(newsArticlesListViewModel.fetchTaskToken.category.text)
@@ -38,7 +42,9 @@ struct MainView: View {
             PlaceHolderView(text: "No Articles", image: nil)
         case .failure(let error):
             RetryView(text: error.localizedDescription) {
-                refreshTask()
+                Task {
+                    await refreshTask()
+                }
             }
         default:
             EmptyView()
@@ -53,12 +59,12 @@ struct MainView: View {
         }
     }
     
-    private func refreshTask() {
+    private func refreshTask() async {
         newsArticlesListViewModel.fetchTaskToken = FetchTaskToken(
             category: newsArticlesListViewModel.fetchTaskToken.category,
             token: Date()
         )
-        newsArticlesListViewModel.loadArticles()
+        await newsArticlesListViewModel.loadArticles()
     }
     
     private var menu: some View {

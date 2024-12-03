@@ -8,7 +8,7 @@
 import Foundation
 import Combine
 
-class NewsArticlesListViewModel: ObservableObject {
+class NewsArticlesListViewModel: NewsArticlesListViewModelProtocol {
     @Published var phase = DataFetchPhase<[Article]>.empty
     @Published var fetchTaskToken: FetchTaskToken
     private let articleService = ArticleService.shared
